@@ -1,0 +1,6 @@
+/home/orestis/Gazebo_Simulation_Donuts_trajectory/build/CMakeFiles/rebuild_cache.dir
+/home/orestis/Gazebo_Simulation_Donuts_trajectory/build/CMakeFiles/edit_cache.dir
+/home/orestis/Gazebo_Simulation_Donuts_trajectory/build/CMakeFiles/animated_obj.dir
+/home/orestis/Gazebo_Simulation_Donuts_trajectory/build/CMakeFiles/animated_box.dir
+/home/orestis/Gazebo_Simulation_Donuts_trajectory/build/CMakeFiles/integrated_main.dir
+/home/orestis/Gazebo_Simulation_Donuts_trajectory/build/CMakeFiles/independent_listener.dir
